@@ -88,21 +88,13 @@ Built React-based healthcare frontend components, led sprint planning, and impro
 
 ## 🌟 What I Bring to the Table
 
-✅ **10+ years** of production mobile development experience
-✅ Apps shipped to **App Store and Google Play** across multiple industries
-✅ Proven track record of **leading teams** and **mentoring engineers**
-✅ Deep expertise in **cross-platform architecture** and **performance optimization**
-✅ Hands-on experience with **CI/CD pipelines** and modern release workflows
-✅ Strong collaboration skills with **product, design, and backend teams**
-✅ Experience as a **university speaker** and **technical mentor**
-
----
-
-## 📊 GitHub Stats
-
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjunka&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjunka&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=sjunka&theme=tokyonight&hide_border=true)
+- ✅ **10+ years** of production mobile development experience
+- ✅ Apps shipped to **App Store and Google Play** across multiple industries
+- ✅ Proven track record of **leading teams** and **mentoring engineers**
+- ✅ Deep expertise in **cross-platform architecture** and **performance optimization**
+- ✅ Hands-on experience with **CI/CD pipelines** and modern release workflows
+- ✅ Strong collaboration skills with **product, design, and backend teams**
+- ✅ Experience as a **university speaker** and **technical mentor**
 
 ---
 
