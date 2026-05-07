@@ -1,4 +1,4 @@
-# Hi there, I'm Sergio Junca 👋
+# Hi there, I'm Sergio 👋
 
 ### Senior Mobile Engineer | React Native Specialist | 10+ Years Building Production Apps
 
